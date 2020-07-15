@@ -13,7 +13,9 @@
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "@expo/vector-icons": "^10.0.0",
+    "expo-constants": "~9.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
